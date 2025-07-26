@@ -11,9 +11,9 @@ To repozytorium zawiera foldery z obrazkami przypisanymi do różnych projektów
 
 - 🎨 **Zasoby graficzne** – ikony, logotypy, banery, elementy UI
 
----
 
 ---
+
 
 ## 🛠️ Jak używam tego repo?
 
